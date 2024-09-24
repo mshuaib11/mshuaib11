@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @mshuaib11
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Python 
 
 <!---
 mshuaib11/mshuaib11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
